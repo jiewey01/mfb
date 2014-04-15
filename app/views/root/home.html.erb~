@@ -1,0 +1,8 @@
+<center>
+
+<h1 color:"violet">Yo this my First blog</h1> 
+
+<%= link_to "Sign-in", "#", class:"btn btn-large btn-primary" %> <br>
+<%= link_to "Resgister!", "#" %>
+
+</center>
